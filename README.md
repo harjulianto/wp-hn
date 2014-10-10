@@ -16,11 +16,12 @@ Theme ini masih dalam versi **alpha**, yang berarti masih akan ada perbaikan2 ke
 - Membuat image thumnail post
 - Memperbaiki image margin dalam post
 - ...
-- 
+
 ## Cara Berkontribusi?
 
 Spread the words about this theme... That would be great! ;)
 
+-------------------------------
 
 > Greet : HN-Community
 
