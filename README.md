@@ -1,13 +1,13 @@
 Wordpress HN Theme
 =====
 
-![HN Wordpress](http://i58.tinypic.com/4ub47r.jpg "HN Wordpress")
+![HN Wordpress](http://i57.tinypic.com/142wl14.jpg "HN Wordpress")
 
 Wordpress HN Theme
 
 ## Alpha Version
 
-Theme ini masih dalam versi alpha, yang berarti masih akan ada perbaikan2 kedepan nya. Tapi theme ini sudah bisa digunakan untuk keperluan minimal.
+Theme ini masih dalam versi **alpha**, yang berarti masih akan ada perbaikan2 kedepan nya. Tapi theme ini sudah bisa digunakan untuk keperluan minimal.
 
 ## To-Do :
 
@@ -16,6 +16,12 @@ Theme ini masih dalam versi alpha, yang berarti masih akan ada perbaikan2 kedepa
 - Membuat image thumnail post
 - Memperbaiki image margin dalam post
 - ...
+- 
+## Cara Berkontribusi?
+
+Spread the words about this theme... That would be great! ;)
+
 
 > Greet : HN-Community
+
 > Special Thanks : Puti Syakira  <3
