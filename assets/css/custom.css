@@ -1,0 +1,162 @@
+/* HN-Community Blog CSS */
+/* Coded by Zea */
+
+* {
+	font-family: 'Lato', sans-serif;
+	color: #0B610B !important;
+}
+
+body {
+	background-color: #000000;
+}
+
+footer {
+	background-color: #000000;
+}
+
+/*LOGO*/
+
+.logo {
+	width: 100%;
+}
+
+/* NAVBAR */
+
+.navbar-default {
+	text-align: center;
+    background-color: transparent;
+    border-style: dashed;
+    border-width: 1.5px;
+    border-color: #0B610B;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #0B610B;
+}
+
+/*POST LOOP*/
+
+.post-box {
+	width: 100%;
+	border-radius: 5px;
+	margin-top: 30px;
+	border-style: dashed;
+	border-width: 1.5px;
+	border-color: #0B610B;
+	padding-top: 0;
+	padding-bottom: 5px;
+}
+
+.post-box-title {
+	width: 100%;
+	border-bottom: 1px dashed;
+	padding-top: 0;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px; 
+}
+
+.post-box-title a {
+	text-decoration: none;
+}
+
+.post-box-meta {
+	background: #0B610B;
+	color: #000000 !important;
+	border-bottom: 1px dashed;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 5px;
+}
+
+.post-box-meta i {
+	color: #000000 !important;
+}
+
+.post-box-meta a {
+	color: #000000 !important;
+	text-decoration: none;
+}
+
+.font-color {
+	color: #000000 !important;
+}
+
+.post-box-content {
+	width: 100%;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+/*	border-bottom: 1px dashed;*/
+}
+
+.post-box-content a {
+	color: #6C7A89 !important;
+}
+
+/*SIDEBAR*/
+
+.sidebar-box {
+	width: 100% !important;
+	border-radius: 5px;
+	margin-top: 30px;
+	border-style: dashed;
+	border-width: 1.5px;
+	border-color: #0B610B;
+	padding-top: 5;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+.social-button-wrapper {
+	padding-top: 20px;
+ 	padding-bottom: 5px;
+ 	text-align: center;
+}
+
+.social-button-wrapper i {
+ 	color: #FFFFFF !important;
+}
+
+.social-button-wrapper a {
+ 	color: #FFFFFF !important;
+ 	text-align: left;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+    padding: 15px 16px 13px;
+    line-height: 15px;
+    width: 260px;
+    font-size: 1.2em;
+    padding-top: 20px;
+ }
+
+ .sidebar-box h3 {
+    font-size: 1.2em !important;
+}
+
+/*SINGLE PAGE*/
+
+blockquote {
+    border-left: 5px solid #0B610B !important;
+}
+
+ /*FOOTER*/
+
+ .footer {
+ 	font-size: 1em;
+ 	padding-top: 30px;
+ 	padding-bottom: 10px;
+ 	text-align: center;
+ }
+
+ .footer a{
+ 	text-decoration: none;
+ }
+
+ .footer a:hover {
+ 	color: #D91E18 !important;
+ }
